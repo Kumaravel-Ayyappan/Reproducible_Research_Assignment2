@@ -1,0 +1,10 @@
+---
+title: "Health and Economic Impact of Severe Weather Events"
+author: "Nathi"
+output: 
+  html_document: 
+    keep_md: yes
+---
+## Synopsis
+This report aims to analyse the impact of sever weather events on the health of a population as well as the corresponding economic cost. I hypothesize that there will be an increased impact on population health and higher economic costs incurred with increasing severity of weather events. Data from NOAA Storm Database was used to test this hypothesis. (Enter results here)
+
